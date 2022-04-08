@@ -1,0 +1,32 @@
+{
+    "@@locale": "en",
+    "appTitle": "Krynn Moon Tracker",
+    "homeTitle": "Current Moon Phases",
+    "phaseLabel": "Phase: ",
+    "quarterLabel": "Quarter: ",
+    "bonusLabel": "Bonus: ",
+    "whiteMoonLabel": "Solinari",
+    "redMoonLabel": "Lunitari",
+    "blackMoonLabel": "Nuitari",
+    "seedText": "Current seed: {seed}",
+    "@seedText": {
+        "placeholders": {
+            "seed": {}
+            }
+        },
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "quarter": "Quarter",
+    "year": "Year",
+    "random": "Random",
+    "choose": "Choose",
+    "seedPrompt": "Enter a seed value",
+    "updatePhasesToNext": "Add to Phases by:",
+    "bonusCasting": "{howMany, plural, =0{no casting} other{{howMany} casting}}",
+    "@bonusCasting": {
+        "placeholders": {
+            "howMany": {}
+        }
+    }
+}
